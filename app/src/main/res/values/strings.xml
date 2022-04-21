@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">UControl Recipes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">@string/app_name</string>
+    <string name="nav_header_subtitle">v1.0.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_saved_recipes">Saved Recipes</string>
+
+    <string name="menu_saved_recipes">Saved Recipes</string>
+    <string name="menu_shopping_list">Shopping List</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_search">Search</string>
+    <string name="none">none</string>
+
+    <string-array name="prices_array">
+        <item>$40.00</item>
+        <item>$40.00-$100.00</item>
+        <item>>$100.00</item>
+    </string-array>
+
+    <string-array name="sorting_options_array">
+        <item>@string/none</item>
+        <item>meta-score</item>
+        <item>popularity</item>
+        <item>healthiness</item>
+        <item>price</item>
+        <item>time</item>
+        <item>random</item>
+        <item>max-used-ingredients</item>
+        <item>min-missing-ingredients</item>
+        <item>alcohol</item>
+        <item>caffeine</item>
+        <item>copper</item>
+        <item>energy</item>
+        <item>calories</item>
+        <item>calcium</item>
+        <item>carbohydrates</item>
+        <item>carbs</item>
+        <item>choitemne</item>
+        <item>cholesterol</item>
+        <item>total-fat</item>
+        <item>fluoride</item>
+        <item>trans-fat</item>
+        <item>saturated-fat</item>
+        <item>mono-unsaturated-fat</item>
+        <item>poly-unsaturated-fat</item>
+        <item>fiber</item>
+        <item>folate</item>
+        <item>foitemc-acid</item>
+        <item>iodine</item>
+        <item>iron</item>
+        <item>magnesium</item>
+        <item>manganese</item>
+        <item>vitamin-b3</item>
+        <item>niacin</item>
+        <item>vitamin-b5</item>
+        <item>pantothenic-acid</item>
+        <item>phosphorus</item>
+        <item>potassium</item>
+        <item>protein</item>
+        <item>vitamin-b2</item>
+        <item>riboflavin</item>
+        <item>selenium</item>
+        <item>sodium</item>
+        <item>vitamin-b1</item>
+        <item>thiamin</item>
+        <item>vitamin-a</item>
+        <item>vitamin-b6</item>
+        <item>vitamin-b12</item>
+        <item>vitamin-c</item>
+        <item>vitamin-d</item>
+        <item>vitamin-e</item>
+        <item>vitamin-k</item>
+        <item>sugar</item>
+        <item>zinc</item>
+    </string-array>
+</resources>
